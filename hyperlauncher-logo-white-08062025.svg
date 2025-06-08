@@ -1,0 +1,59 @@
+<!-- Logo - all white, transparent background -->
+<svg viewBox="0 0 174 174" xmlns="http://www.w3.org/2000/svg">
+  <!-- App grid squares -->
+  <rect x="0" y="0" width="50" height="50" rx="5" fill="white"/>
+  <rect x="62" y="0" width="50" height="50" rx="5" fill="white"/>
+  <rect x="124" y="0" width="50" height="50" rx="5" fill="white"/>
+  <rect x="0" y="124" width="50" height="50" rx="5" fill="white"/>
+  <rect x="62" y="124" width="50" height="50" rx="5" fill="white"/>
+  <rect x="124" y="124" width="50" height="50" rx="5" fill="white"/>
+  
+  <!-- Center bar (white underscore) -->
+  <rect x="62" y="98" width="50" height="14" fill="white"/>
+  
+  <!-- Left arrow -->
+  <path d="M50 67L27 87l23 20v5H5c-3 0-5-2-5-5V67c0-3 2-5 5-5h45v5z" fill="white"/>
+  
+  <!-- Right arrow -->
+  <path d="M169 62c3 0 5 2 5 5v40c0 3-2 5-5 5h-45v-5l23-20-23-20v-5h45z" fill="white"/>
+</svg>
+
+<!-- Version 2: Icon only (transparent background) -->
+<svg viewBox="162 125 174 174" xmlns="http://www.w3.org/2000/svg">
+  <!-- App grid squares -->
+  <rect x="162" y="125" width="50" height="50" rx="5" fill="#323232"/>
+  <rect x="224" y="125" width="50" height="50" rx="5" fill="#323232"/>
+  <rect x="286" y="125" width="50" height="50" rx="5" fill="#323232"/>
+  <rect x="162" y="249" width="50" height="50" rx="5" fill="#323232"/>
+  <rect x="224" y="249" width="50" height="50" rx="5" fill="#323232"/>
+  <rect x="286" y="249" width="50" height="50" rx="5" fill="#323232"/>
+  
+  <!-- Center bar (green underscore) -->
+  <rect x="224" y="223" width="50" height="14" fill="#00DF82"/>
+  
+  <!-- Left arrow -->
+  <path d="M212 192L189 212l23 20v5h-45c-3 0-5-2-5-5v-40c0-3 2-5 5-5h45v5z" fill="#323232"/>
+  
+  <!-- Right arrow -->
+  <path d="M331 187c3 0 5 2 5 5v40c0 3-2 5-5 5h-45v-5l23-20-23-20v-5h45z" fill="#323232"/>
+</svg>
+
+<!-- Version 3: Minimal icon (recommended) -->
+<svg viewBox="0 0 174 174" xmlns="http://www.w3.org/2000/svg">
+  <!-- App grid squares -->
+  <rect x="0" y="0" width="50" height="50" rx="5" fill="#323232"/>
+  <rect x="62" y="0" width="50" height="50" rx="5" fill="#323232"/>
+  <rect x="124" y="0" width="50" height="50" rx="5" fill="#323232"/>
+  <rect x="0" y="124" width="50" height="50" rx="5" fill="#323232"/>
+  <rect x="62" y="124" width="50" height="50" rx="5" fill="#323232"/>
+  <rect x="124" y="124" width="50" height="50" rx="5" fill="#323232"/>
+  
+  <!-- Center bar (green underscore) -->
+  <rect x="62" y="98" width="50" height="14" fill="#00DF82"/>
+  
+  <!-- Left arrow -->
+  <path d="M50 67L27 87l23 20v5H5c-3 0-5-2-5-5V67c0-3 2-5 5-5h45v5z" fill="#323232"/>
+  
+  <!-- Right arrow -->
+  <path d="M169 62c3 0 5 2 5 5v40c0 3-2 5-5 5h-45v-5l23-20-23-20v-5h45z" fill="#323232"/>
+</svg>
